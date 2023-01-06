@@ -1,5 +1,5 @@
 
-<body>
+<body style="background-color:grey;">
   
   <h1 style="color: red;">☕️ Hi ! Welcome on my GitHub Profile </h1>
 
