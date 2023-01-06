@@ -15,5 +15,5 @@
 
 <p> You will find all my projects with their codes so you can maybe take some ideas from them. I will not post everything, but I am trying to tend to a profile that is able to show all my skills for any recruiters that is concerned by my profile.</p>
 
-<blockquote>Feel free to DM me on Discord : skyluetz#2228.</blockquote>
+Feel free to DM me on Discord : skyluetz#2228.
 </body>
