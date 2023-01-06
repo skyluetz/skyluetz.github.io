@@ -1,7 +1,7 @@
 
 <body style="background-color:grey;">
   
-  <h1 style="color: red;">☕️ Hi ! Welcome on my GitHub Profile </h1>
+  <h1 style="color: red;">☕️ Hi ! Welcome on my site </h1>
 
 <h2>🍻 Who I am ? </h2>
 
