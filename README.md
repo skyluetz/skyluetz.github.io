@@ -1,5 +1,5 @@
 
-<body style="background-color:cyan;">
+<body style="background-color:white;">
   
   <h1 style="color: red;">☕️ Hi ! Welcome on my site </h1>
 
